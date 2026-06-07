@@ -6,7 +6,7 @@ El proyecto forma parte de la asignatura de **Estructura de Datos** de la Corpor
 
 ---
 
-## 📌 Concepto del Modelo de Grafo
+## Concepto del Modelo de Grafo
 
 El sistema modela los elementos de la biblioteca utilizando la teoría de grafos:
 
@@ -19,7 +19,7 @@ El sistema modela los elementos de la biblioteca utilizando la teoría de grafos
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 1.  **Gestión de Inventario (Libros):**
     - Agregar libros con título, autor, editorial y género.
@@ -37,7 +37,7 @@ El sistema modela los elementos de la biblioteca utilizando la teoría de grafos
 4.  **Visualización del Grafo:**
     - Permite ver la estructura interna del grafo mediante la representación de su **Lista de Adyacencia**, mostrando de forma transparente cómo se conectan los usuarios con los libros prestados en memoria.
 
-## 💻 Ejecución y Uso
+## Ejecución y Uso
 
 Para ejecutar el programa, simplemente ejecuta el archivo principal en tu consola o terminal:
 
